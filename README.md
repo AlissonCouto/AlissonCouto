@@ -18,20 +18,11 @@ Estou focado em aprender mais sobre **machine learning** e **web development**, 
 
 #### 💻 **Back-End**
 
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) PHP
-- ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white) Laravel
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) WordPress
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) PostgreSQL
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) AWS
-- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) DigitalOcean
-- ![COBOL](https://img.shields.io/badge/COBOL-005A8D?style=flat&logo=cobol&logoColor=white) COBOL
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white) | ![WordPress (https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) | ![COBOL](https://img.shields.io/badge/COBOL-005A8D?style=flat&logo=cobol&logoColor=white)
 
 #### 🌐 **Front-End**
 
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) Bootstrap
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) Vue.js
-- ![Inertia.js](https://img.shields.io/badge/Inertia.js-4FC08D?style=flat&logo=vue.js&logoColor=white) Inertia.js
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | ![Inertia.js](https://img.shields.io/badge/Inertia.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 ## 📈 Estatísticas
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonCouto&layout=compact)
