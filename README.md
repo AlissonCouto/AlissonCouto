@@ -7,13 +7,12 @@ Bem-vindo ao meu perfil no GitHub!
 Sou **desenvolvedor Full Stack** com sólida experiência em **PHP**, **Laravel** e **gestão de soluções em nuvem** (DigitalOcean). Tenho expertise em **GitFlow** e **análise de requisitos**, aplicando metodologias ágeis para entregar **código limpo** e **escalável**.
 
 ### 📊 **Resultados Concretos**
-- Ajudou empresas a **aumentar as vendas de e-commerces**, com foco em **melhorias de UX**.
-- Recuperou a **receita de um cliente**, passando de **R$ 10 mil para R$ 100 mil mensais**.
-- Implementou **rotinas de segurança** que eliminaram **ataques de malware**, garantindo estabilidade para **52 sistemas**.
+- Ajudei empresas a **aumentar as vendas de e-commerces**, com foco em **melhorias de UX**.
+- Recuperei a **receita de um cliente**, passando de **R$ 10 mil para R$ 100 mil mensais**.
+- Implementei **rotinas de segurança** que eliminaram **ataques de malware**, garantindo estabilidade para **52 sistemas**.
 
 ### 🧠 **Atualmente**
 Estou focado em aprender mais sobre **machine learning** e **web development**, e como essas tecnologias podem trazer **inovações** para os projetos em que estou envolvido.
-
 
 ### Tecnologias
 
