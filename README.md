@@ -12,7 +12,7 @@ Sou **desenvolvedor Full Stack** com sólida experiência em **PHP**, **Laravel*
 - Implementei **rotinas de segurança** que eliminaram **ataques de malware**, garantindo estabilidade para **52 sistemas**.
 
 ### 🧠 **Atualmente**
-Estou focado em aprender mais sobre **machine learning** e **web development**, e como essas tecnologias podem trazer **inovações** para os projetos em que estou envolvido.
+Hoje, meu foco é trabalhar com empresas que valorizam código limpo, boas práticas, comunicação direta e resultados concretos.
 
 ### Tecnologias
 
