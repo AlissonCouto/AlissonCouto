@@ -30,9 +30,9 @@ Hoje, meu foco é trabalhar com empresas que valorizam código limpo, boas prát
 ![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlissonCouto&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
 
 ## 📬 Me encontre aqui:
-- [LinkedIn](https://www.linkedin.com/in/alissoncouto)
+- [LinkedIn](https://www.linkedin.com/in/alisson-couto/)
 - [Site](https://alissoncouto.com.br)
-- [Instagram](https://instagram.com/_alissoncaires)
+- [Instagram](https://www.instagram.com/_alissonvc_/)
 
 <!--
 **AlissonCouto/AlissonCouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
